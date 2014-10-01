@@ -1,0 +1,6 @@
+---
+applications:
+- name:      free-web-hosting
+  host:      free-web-hosting
+  memory:    64M
+  buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack.git
